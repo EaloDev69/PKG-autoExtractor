@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Extractor de PKG de PS4 (para shadPS4)
 
 Saca los archivos de un `.pkg` de PS4 a una carpeta de juego que shadPS4 pueda leer.
@@ -68,3 +69,7 @@ algoritmo de referencia.
 transcribió dos veces desde el código de referencia. Probado en Python 3.12 / Linux (Xvfb);
 `Iniciar_Extractor.bat` y el uso con `pythonw` en Windows no se probaron. Si con tu PKG sale el error de
 "passcode o EKPFS incorrectos", esa es la primera pieza a revisar.
+=======
+# PKG-autoExtractor
+Pkg autoExtractor is a pkg extractor for easy use into the shadPS4 emulator.
+>>>>>>> 605690399c9fe5b643918ab0d2c1b4370337bb92
